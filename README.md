@@ -1,6 +1,7 @@
-# Halo semua! 
+<h1 align="center">"Hello, World!"</h1>
 
-Perkenalkan nama saya **Fakhrul Nurmulyana**.
+
+i'm **Fakhrul Nurmulyana**.
 
 <p align="center">
   <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="32px" alt="linkedin" title="linkedin" src="https://i.imgur.com/is4m8of.png"/></a>
@@ -21,7 +22,3 @@ Perkenalkan nama saya **Fakhrul Nurmulyana**.
 
 </div>
 <img src= "https://github-readme-activity-graph.vercel.app/graph?username=fakrulnurmulyana&theme=merko">
-
-<br/>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/fakhrul-nurmulyana-760745221)ku ya.
