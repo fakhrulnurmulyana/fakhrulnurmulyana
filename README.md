@@ -11,14 +11,14 @@ i'm **Fakhrul Nurmulyana**.
 <br/>
 
 <p align="center">
-<a href="https://github.com/fakrulnurmulyana">
-  <img height="180em" width=750 src="https://github-readme-stats-eight-theta.vercel.app/api?username=fakrulnurmulyana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" width=750 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fakrulnurmulyana&layout=compact&langs_count=8&theme=merko"/>
+<a href="https://github.com/fakhrulnurmulyana">
+  <img height="180em" width=750 src="https://github-readme-stats-eight-theta.vercel.app/api?username=fakhrulnurmulyana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" width=750 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fakhrulnurmulyana&layout=compact&langs_count=8&theme=merko"/>
 </a>
 </p>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fakrulnurmulyana&theme=merko" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fakhrulnurmulyana&theme=merko" width=750  alt="stats graph"/>
 
 </div>
-<img src= "https://github-readme-activity-graph.vercel.app/graph?username=fakrulnurmulyana&theme=merko">
+<img src= "https://github-readme-activity-graph.vercel.app/graph?username=fakhrulnurmulyana&theme=merko">
