@@ -4,8 +4,8 @@
 i'm **Fakhrul Nurmulyana**.
 
 <p align="center">
-  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="50px" alt="linkedin" title="linkedin" src="https://i.imgur.com/is4m8of.png"/></a>
-  <a href="fakhrulnurmulyana@gmail.com"><img width="50px" alt="email" title="email" src="https://imgur.com/QtoAxx8.png"/></a>
+  <a href="https://www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="50px" alt="linkedin" title="linkedin" src="https://i.imgur.com/is4m8of.png"/></a>
+  <a href="https://fakhrulnurmulyana@gmail.com"><img width="50px" alt="email" title="email" src="https://imgur.com/QtoAxx8.png"/></a>
 </p>
 
 # About me
